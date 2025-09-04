@@ -1,0 +1,15 @@
+{
+  "title": "Docker Made Simple - Mini Challenge 1",
+  "description": "Your first hands-on Docker container with Play with Docker",
+  "difficulty": "beginner",
+  "details": {
+    "steps": [
+      { "title": "Run Your First Container", "text": "step1.md" },
+      { "title": "Expose a Web Server", "text": "step2.md" },
+      { "title": "Inspect Images & Layers", "text": "step3.md" }
+    ]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
