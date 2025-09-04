@@ -12,3 +12,7 @@ docker run -d -p 8080:80 nginx
 👉 Click the **port 8080 badge** that appears above the terminal to open Nginx in your browser.
 
 > **Challenge:** Stop and remove the container:
+
+docker ps
+docker stop <container_id>
+docker rm <container_id>
